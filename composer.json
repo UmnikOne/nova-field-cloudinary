@@ -1,5 +1,5 @@
 {
-    "name": "silvanite/nova-field-cloudinary",
+    "name": "umnikone/nova-field-cloudinary",
     "description": "A Laravel Nova Image Field with Flysystem Adapter for storing and retrieving media from Cloudinary",
     "keywords": [
         "laravel",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Marco Mark",
-            "email": "m2de@outlook.com"
+            "name": "Umnik One",
+            "email": "umnik.dev@gmail.com"
         }
     ],
     "require": {
