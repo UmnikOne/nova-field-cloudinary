@@ -12,17 +12,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/silvanite/nova-field-cloudinary.git"
+        "url": "git+https://github.com/umnikone/nova-field-cloudinary.git"
     },
     "keywords": [
         "boilerplate"
     ],
-    "author": "Marco Mark <m2de@outlook.com>",
+    "author": "Umnik One <umnik.dev@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/silvanite/nova-field-cloudinary/issues"
+        "url": "https://github.com/umnikone/nova-field-cloudinary/issues"
     },
-    "homepage": "https://github.com/silvanite/nova-field-cloudinary#readme",
+    "homepage": "https://github.com/umnikone/nova-field-cloudinary#readme",
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-eslint": "^8.2.6",
